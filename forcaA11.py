@@ -16,7 +16,7 @@ def jogar():
             index = index + 1
 
         print("jogando ...")
-
+    print(count(palavra_secreta))
     print("Fim do jogo")
 
 
